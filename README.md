@@ -1,2 +1,2 @@
-# Project1
-Personal website for CS283
+# Project2
+Project 2 for CS-283
